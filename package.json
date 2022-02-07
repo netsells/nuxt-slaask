@@ -1,0 +1,27 @@
+{
+    "name": "@netsells/nuxt-slaask",
+    "version": "0.1.0",
+    "description": "Nuxt Slaask plugin",
+    "files": [
+        "lib"
+    ],
+    "main": "lib/index.js",
+    "keywords": [
+        "Vue",
+        "Nuxt",
+        "Slaask",
+        "nuxt-slaask"
+    ],
+    "repository": {
+        "url": "https://github.com/netsells/nuxt-slaask"
+    },
+    "author": {
+        "name": "Sam Turrell",
+        "url": "https://samturrell.co.uk",
+        "email": "sam.turrell@netsells.co.uk"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "lodash.merge": "^4.6.2"
+    }
+}
